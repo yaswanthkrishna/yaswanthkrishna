@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**yaswanthkrishna/yaswanthkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yaswanth Krishna Vayalapalli
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YaswanthKrishnaVayalapalli-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yaswanthkrishnavayalapalli) 
+[![GitHub](https://img.shields.io/badge/GitHub-yaswanthkrishna-blue?style=flat&logo=github)](https://github.com/yaswanthkrishna)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me
+
+I'm a passionate **Software Developer** with expertise in full-stack development, data engineering, and machine learning. I love turning complex problems into elegant solutions. My work spans across various technologies and platforms.
+
+🌟 **Proficient in:** Java, Python, C++, JavaScript, React.js, Node.js, and more.
+
+---
+
+### 🌐 Connect with Me
+
+- **Email:** [ykvayala@syr.edu](mailto:ykvayala@syr.edu)
+- **LinkedIn:** [Yaswanth Krishna Vayalapalli](https://linkedin.com/in/yaswanthkrishnavayalapalli)
+- **GitHub:** [@yaswanthkrishna](https://github.com/yaswanthkrishna)
+
+---
+
+### 🔥 My GitHub Stats
+
+![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanthkrishna&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkrishna&layout=compact&theme=radical)
+
+---
+
+✨ For more about my professional journey, check out my [LinkedIn profile](https://linkedin.com/in/yaswanthkrishnavayalapalli).
+
