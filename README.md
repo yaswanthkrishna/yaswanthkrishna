@@ -21,7 +21,7 @@ I'm Yaswanth, a versatile Software Developer passionate about full-stack develop
 
 ### 🌐 Connect with Me
 
-- **Email:** [ykvayala@syr.edu](mailto:ykvayala@syr.edu)
+- **Email:** [ykvayala@syr.edu](mailto:yaswanthkrishna.v@gmail.com)
 - **LinkedIn:** [Yaswanth Krishna Vayalapalli](https://linkedin.com/in/yaswanthkrishnavayalapalli)
 - **GitHub:** [@yaswanthkrishna](https://github.com/yaswanthkrishna)
 
